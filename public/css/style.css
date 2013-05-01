@@ -1,0 +1,58 @@
+/* tags */
+
+h3 {
+  margin-left: 10px;
+}
+
+/* ids */
+
+#brand {
+  margin-left: -5px;
+}
+
+#refresh-button {
+  margin-right: 15px;
+}
+
+/* classes */
+
+.list {
+  margin-top: 40px;
+  width: 320px;
+  float: left;
+  display: block;
+  border-left: 1px solid #e8e8e8;
+}
+
+.name {
+  margin-top: 5px;
+}
+
+.tweets {
+  margin-top: 10px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.grayed {
+  color: #ABABAB;
+}
+
+.list-name {
+  text-align: center;
+}
+
+.tweet {
+  border-bottom: 1px solid #e8e8e8;
+  font-size: small;
+  min-height: 50px;
+  margin-left: 5px;
+}
+
+.author {
+  color: #2FC2EF;
+}
+
+.icon-arrow-up {
+  margin-left: 5px;
+}
